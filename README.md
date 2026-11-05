@@ -15,7 +15,14 @@ The application is wired to the deployed Sepolia contract at `0x8c868c908EEA15Be
 - SQLite event history and polling-based live activity feed.
 - Sepolia network and missing MetaMask handling.
 
-![BrickShare property dashboard](<docs/screenshots/Screenshot 2026-11-05 200816.png>)
+## Screenshots
+
+![Property overview](<docs/screenshots/Screenshot 2026-11-05 200816.png>)
+![Property dashboard](<docs/screenshots/Screenshot 2026-11-05 224931.png>)
+![Investor holdings](<docs/screenshots/Screenshot 2026-11-05 225001.png>)
+![Admin workspace](<docs/screenshots/Screenshot 2026-11-05 225029.png>)
+![Owner controls](<docs/screenshots/Screenshot 2026-11-05 225057.png>)
+![Live activity](<docs/screenshots/Screenshot 2026-11-05 225118.png>)
 
 ## Quick start
 
