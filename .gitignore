@@ -1,15 +1,34 @@
-# Remix compiler artifacts
-**/artifacts/
-**/artifacts/**
-
-# Remix plugin state folders
-deps/
-states/
-
-# Debug info
-*.dbg.json
-*.tsbuildinfo
-
-# Optional
+# Environment variables
 .env
-.env.local
+.env.*
+!.env.example
+!.env.local.example
+!backend/.env.example
+!frontend/.env.example
+frontend/.env.local
+backend/.env
+
+# Node
+node_modules/
+.next/
+out/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.db
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
