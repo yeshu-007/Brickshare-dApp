@@ -17,7 +17,7 @@ The application is wired to the deployed Sepolia contract at `0x8c868c908EEA15Be
 
 ## Screenshots
 
-![Property overview](<docs/screenshots/Screenshot 2026-11-05 200816.png>)
+
 ![Property dashboard](<docs/screenshots/Screenshot 2026-11-05 224931.png>)
 ![Investor holdings](<docs/screenshots/Screenshot 2026-11-05 225001.png>)
 ![Admin workspace](<docs/screenshots/Screenshot 2026-11-05 225029.png>)
